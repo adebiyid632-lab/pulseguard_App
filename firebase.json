@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "pulseguard-app",
+    "site": "pulseguard-634cd",
     "public": "build/web",
     "ignore": [
       "firebase.json",
